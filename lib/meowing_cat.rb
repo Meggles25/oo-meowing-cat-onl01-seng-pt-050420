@@ -9,8 +9,8 @@ maru.name = "Maru"
 
 puts maru.name
 
-def meow
-  "meow!"
+  def meow
+    "meow!"
 
 puts maru.meow
 
