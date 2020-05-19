@@ -13,5 +13,6 @@ puts maru.name
     puts "meow!"
 
 puts maru.meow
-    
+  
+  end
 end
