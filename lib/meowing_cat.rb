@@ -5,4 +5,6 @@ class Cat
 end
 
 maru = Cat.new 
-maru.name 
+maru.name = "Maru"
+
+def me
