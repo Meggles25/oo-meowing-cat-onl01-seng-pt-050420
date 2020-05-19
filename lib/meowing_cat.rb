@@ -3,7 +3,8 @@ class Cat
   
   attr_accessor :name 
 
-maru = 
+maru = Dog.new 
+maru.
   
   def meow
     puts "meow!"
