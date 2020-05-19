@@ -10,5 +10,8 @@ maru.name = "Maru"
 puts maru.name
 
 def meow
-  puts "meow!"
+  "meow!"
+
+puts maru.meow
+
 end
