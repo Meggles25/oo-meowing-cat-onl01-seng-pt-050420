@@ -7,4 +7,7 @@ end
 maru = Cat.new 
 maru.name = "Maru"
 
-def me
+def meow
+  puts "meow!"
+  
+  
